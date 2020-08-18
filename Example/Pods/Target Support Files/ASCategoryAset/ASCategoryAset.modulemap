@@ -1,0 +1,6 @@
+framework module ASCategoryAset {
+  umbrella header "ASCategoryAset-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module Pods_ASCategoryAset_Example {
+  umbrella header "Pods-ASCategoryAset_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
