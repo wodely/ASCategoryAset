@@ -8,7 +8,6 @@
 
 #import "UITextField+Category.h"
 #import <objc/runtime.h>
-
 // 定义关联的key
 static const char *lengthKey = "length";
 

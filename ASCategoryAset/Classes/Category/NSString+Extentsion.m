@@ -103,4 +103,11 @@
     return NO;
 }
 
+
+- (BOOL)ascontainsString:(NSString *)string{
+    if (!string) {
+        return NO;
+    }
+    return [self containsString:string];
+}
 @end

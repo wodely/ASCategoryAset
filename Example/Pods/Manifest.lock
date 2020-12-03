@@ -1,5 +1,5 @@
 PODS:
-  - ASCategoryAset (0.1.0)
+  - ASCategoryAset (0.3.0)
 
 DEPENDENCIES:
   - ASCategoryAset (from `../`)
@@ -9,8 +9,8 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  ASCategoryAset: 3776cb2844649eca213de567ff8e3746e267cf21
+  ASCategoryAset: dba03b041419d8dbeb7dc0e3f87a94afa53b385d
 
 PODFILE CHECKSUM: 1b87ea327b490d4b88ea766002c647311a75c6f2
 
-COCOAPODS: 1.10.0.beta.2
+COCOAPODS: 1.10.0.rc.1

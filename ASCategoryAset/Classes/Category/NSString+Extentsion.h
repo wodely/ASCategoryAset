@@ -24,4 +24,8 @@
 
 - (BOOL)includeChinese;//判断是否含有汉字
 
+/**
+ 判断字符串是否含有某字符串 防止字符串为空时崩溃
+ */
+- (BOOL)ascontainsString:(NSString*)string;
 @end

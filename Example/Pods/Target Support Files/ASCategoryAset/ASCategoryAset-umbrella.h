@@ -12,7 +12,6 @@
 
 #import "CALayer+Cool.h"
 #import "CALayer+XibConfiguration.h"
-#import "CTMediator.h"
 #import "NSDate+Category.h"
 #import "NSDateFormatter+Category.h"
 #import "NSDictionary+NullToNil.h"

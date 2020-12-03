@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'ASCategoryAset'
-  s.version          = '0.1.0'
+  s.version          = '0.3.0'
   s.summary          = '分类集合'
 
 # This description is used to generate tags and improve search results.
@@ -24,7 +24,7 @@ Pod::Spec.new do |s|
   s.homepage         = 'https://github.com'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'liukecyl@163.com' => 'liukecyl' }
+  s.author           = { 'liuke' => 'liukecyl@163.com' }
   s.source           = { :git => 'http://192.168.1.96/ke/ASCategoryAset.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 

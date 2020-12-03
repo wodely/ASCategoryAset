@@ -31,7 +31,7 @@
             });
         }
         else {
-            NSLog(@"async load error.");
+//            DMLog(@"async load error.");
         }
     });
 }
