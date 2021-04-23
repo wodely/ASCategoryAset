@@ -27,6 +27,7 @@
 #import "UIButton+TimeInterval.h"
 #import "UIButton+UIButton_egdeInset.h"
 #import "UIColor+Helpers.h"
+#import "UIFont+Helper.h"
 #import "UIImage+Compress.h"
 #import "UIImage+Extension.h"
 #import "UILabel+Helpers.h"
