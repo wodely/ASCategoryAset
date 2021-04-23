@@ -1,6 +1,6 @@
 {
   "name": "ASCategoryAset",
-  "version": "0.3.0",
+  "version": "0.5.0",
   "summary": "分类集合",
   "description": "'供项目用的分类集合'",
   "homepage": "https://github.com",
@@ -12,8 +12,8 @@
     "liuke": "liukecyl@163.com"
   },
   "source": {
-    "git": "http://192.168.1.96/ke/ASCategoryAset.git",
-    "tag": "0.3.0"
+    "git": "https://github.com/wodely/ASCategoryAset.git",
+    "tag": "0.5.0"
   },
   "platforms": {
     "ios": "8.0"
